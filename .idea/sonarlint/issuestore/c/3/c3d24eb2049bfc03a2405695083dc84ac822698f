@@ -1,0 +1,10 @@
+
+>
+java:S1604["(Make this anonymous inner class a lambda(‰á±’
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(ìÞ¨çøÿÿÿÿ
+U
+java:S1161u":Add the "@Override" annotation above this method signature(ŠÎ”ßûÿÿÿÿ
+f	java:S128c"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅÞúÿÿÿÿ
+P
+java:S1161l":Add the "@Override" annotation above this method signature(ÈÊ“À
+[	java:S107M"AConstructor has 8 parameters, which is greater than 7 authorized.(…¸·Êúÿÿÿÿ

@@ -1,0 +1,9 @@
+
+1
+java:S2326
+"A is not used in the class.(Î†Úñ
+V	java:S110I"<This class has 6 parents which is greater than 5 authorized.(§‘’Æþÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(™—ï±ýÿÿÿÿ
+g	java:S1011"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øÀó£ýÿÿÿÿ
+F
+java:S11723"0Remove this unused method parameter "component".(Ì¹ÎÉ

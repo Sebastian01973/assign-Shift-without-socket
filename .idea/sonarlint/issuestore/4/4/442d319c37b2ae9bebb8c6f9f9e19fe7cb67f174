@@ -1,0 +1,11 @@
+
+w
+java:S1450"ZRemove the "jModelLabel" field and declare it as a local variable in the relevant methods.(öÁÛê8ıÔ â.
+D
+java:S1659"'Declare "jpollCode" on a separate line.(öÁÛê8Æ†ƒ â.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ú”´”8ŠÁ œâ.
+v
+java:S1450"YRemove the "jBNextTurn" field and declare it as a local variable in the relevant methods.(óÎ¯ö8õª™ â.
+\
+java:S1128"?Remove this unused import 'sun.management.jdp.JdpPacketReader'.(ú”´”8Š¡œâ.

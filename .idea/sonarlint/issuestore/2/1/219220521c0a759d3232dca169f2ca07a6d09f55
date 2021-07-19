@@ -1,0 +1,14 @@
+
+w
+java:S1450"URemove the "jBTurn" field and declare it as a local variable in the relevant methods.(ÌíÄ™ÿÿÿÿÿ8èÿèâ.
+]	java:S1250"<This block of commented-out lines of code should be removed.( øØ´ûÿÿÿÿ8 ³ÈŸâ.
+N
+java:S1068",Remove this unused "jBCancel" private field.(ÌíÄ™ÿÿÿÿÿ8ıµøâ.
+D
+java:S1659"'Declare "jshowCode" on a separate line.(®Şµ¼8àÆ©Ÿâ.
+H
+java:S1659"&Declare "jBCancel" on a separate line.(ÌíÄ™ÿÿÿÿÿ8å¦µœâ.
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ³‰ø8 ³ÈŸâ.
+r
+java:S1450"URemove the "jLcode" field and declare it as a local variable in the relevant methods.(®Şµ¼8¶µŸŸâ.
